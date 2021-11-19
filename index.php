@@ -70,7 +70,7 @@
 </style>
 <center>
 
-    <body style="background-color:beige;">
+    <body style="background-color:green;">
         <h1>Turgunaliev Daniel <br>president of the House of moldokulov30a</h1>
         <h3>we will teach you to be the master of the house!</h3>
         <p> we will change your position at home)</p>
