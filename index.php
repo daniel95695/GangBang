@@ -78,7 +78,7 @@
 		
         </form>
         <form action='https://instagram.com/_turgunaliev._?utm_medium=copy_link' target='_blank'>
-        <button class='button button2'>istagram</button>
+        <button class='button button2'>instagram</button>
         </form>
         <form action='https://t.me/Daniel' target='_blank'>
         <button class='button button3'>Telegram</button>
